@@ -1,6 +1,6 @@
 # npmtest-babel-cli
 
-#### test coverage for  [babel-cli (v6.24.1)](https://babeljs.io/)  [![npm package](https://img.shields.io/npm/v/npmtest-babel-cli.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-babel-cli) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-babel-cli.svg)](https://travis-ci.org/npmtest/node-npmtest-babel-cli)
+#### basic test coverage for  [babel-cli (v6.24.1)](https://babeljs.io/)  [![npm package](https://img.shields.io/npm/v/npmtest-babel-cli.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-babel-cli) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-babel-cli.svg)](https://travis-ci.org/npmtest/node-npmtest-babel-cli)
 
 #### Babel command line.
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-babel-cli/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-babel-cli/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-babel-cli/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-babel-cli/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-babel-cli/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-babel-cli/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-babel-cli/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-babel-cli/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-babel-cli/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-babel-cli/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-babel-cli/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-babel-cli/build/coverage.html/index.html)
 
